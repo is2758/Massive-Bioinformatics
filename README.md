@@ -14,4 +14,4 @@ Bu depo, bir süt ürünleri üreticisinin yaşadığı mikrobiyal bozulma krizi
 - Kriz Yönetimi ve Stratejik Satış İletişimi
 
 ---
-*Bu çalışma [Adın Soyadın] tarafından Massive Bioinformatics değerlendirme süreci için hazırlanmıştır.*
+*Bu çalışma İsmail Cihat Güneş tarafından Massive Bioinformatics değerlendirme süreci için hazırlanmıştır.*
